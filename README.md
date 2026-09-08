@@ -1,4 +1,4 @@
-----------------------------------------------------------------------------ENGLISH-------------------------------------------------------------------------------
+----------------------------------------------------------------------------ENGLISH----------------------------------------------------------------
 # discord-auto-quests
 An automated JavaScript script for Discord PTB clients and the web version that allows users to complete Discord Quests (such as watching videos or emulating the launch of games, streams, and activities) in the background.
 # Discord Quests Auto-Runner 🚀
@@ -45,6 +45,12 @@ After launching the script, the following functions are available in the console
 ## ⚠️ Disclaimer
 
 This tool was created exclusively for educational and informational purposes. Running scripts in the Discord console may violate Discord's Terms of Service (ToS). Use this script at your own risk.
+
+
+
+
+
+
 
 --------------------------------------------------------------------RUSSIAN-------------------------------------------------------------------------
 Автоматический JavaScript-скрипт для клиентов PTB и веб-версии Discord, позволяющий проходить задания **Discord Quests** (просмотр видео, эмуляция запуска игр, стримов и активностей) в фоновом режиме.
