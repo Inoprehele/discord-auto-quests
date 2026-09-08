@@ -50,12 +50,12 @@ This tool was created exclusively for educational and informational purposes. Ru
 
 
 
-
+---
 
 ----------RUSSIAN--------------
 Автоматический JavaScript-скрипт для клиентов PTB и веб-версии Discord, позволяющий проходить задания **Discord Quests** (просмотр видео, эмуляция запуска игр, стримов и активностей) в фоновом режиме.
 
----
+
 
 ##  Возможности
 
